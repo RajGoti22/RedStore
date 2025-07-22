@@ -23,7 +23,7 @@ const LatestProducts = () => {
 
   useEffect(() => {
     axios
-      .get('http://localhost:5000/api/products?limit=8')
+      .get('https://redstore-vcct.onrender.com/api/products?limit=8')
       .then(res => {
         setProducts(res.data.products || []);
         setLoading(false);

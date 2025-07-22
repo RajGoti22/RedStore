@@ -64,10 +64,10 @@ export default function ProductDetails() {
 
   useEffect(() => {
     setLoading(true);
-    axios.get(`http://localhost:5000/api/products/${id}`)
+    axios.get(`https://redstore-vcct.onrender.com/api/products/${id}`)
       .then(res => {
         setProduct(res.data);
-        return axios.get('http://localhost:5000/api/products');
+        return axios.get('https://redstore-vcct.onrender.com/api/products');
       })
       .then(res => setAllProducts(res.data.products))
       .catch(console.error)

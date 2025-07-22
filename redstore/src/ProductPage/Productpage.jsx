@@ -24,7 +24,7 @@ const Products = () => {
   // ✅ Fetch products
   useEffect(() => {
     axios
-      .get('http://localhost:5000/api/products')
+      .get('https://redstore-vcct.onrender.com/api/products')
       .then(({ data }) => {
         if (data?.products?.length) {
           setAllProducts(data.products);
