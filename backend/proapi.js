@@ -37,18 +37,18 @@ const imageUrls = {
   Footwear: 'https://images.unsplash.com/photo-1588361861040-ac9b1018f6d5',
   Sportswear: 'https://images.unsplash.com/photo-1585036156261-1e2ac055414d',
   Cricket: 'https://redstore-vcct.onrender.com/images/cricket.jpg',
-  Football: 'http://localhost:5000/images/football.avif',
-  Basketball: 'http://localhost:5000/images/basketball.avif',
-  Tennis: 'http://localhost:5000/images/Tennis.jpeg',
-  Badminton: 'http://localhost:5000/images/yonexrackets.jpeg',
-  Swimming: 'http://localhost:5000/images/Swimming.jpg',
-  Gym: 'http://localhost:5000/images/gym.jpeg',
-  Yoga: 'http://localhost:5000/images/yogamat.jpeg',
-  Cycling: 'http://localhost:5000/images/Cycling.webp',
-  'Fitness Equipment': 'http://localhost:5000/images/FitnessEquipment.jpeg',
-  Accessories: 'http://localhost:5000/images/Accessories.jpeg',
-  Boxing: 'http://localhost:5000/images/Boxing.jpeg',
-  Running: 'http://localhost:5000/images/Running.jpeg'
+  Football: 'https://redstore-vcct.onrender.com/images/football.avif',
+  Basketball: 'https://redstore-vcct.onrender.com/images/basketball.avif',
+  Tennis: 'https://redstore-vcct.onrender.com/images/Tennis.jpeg',
+  Badminton: 'https://redstore-vcct.onrender.com/images/yonexrackets.jpeg',
+  Swimming: 'https://redstore-vcct.onrender.com/images/Swimming.jpg',
+  Gym: 'https://redstore-vcct.onrender.com/images/gym.jpeg',
+  Yoga: 'https://redstore-vcct.onrender.com/images/yogamat.jpeg',
+  Cycling: 'https://redstore-vcct.onrender.com/images/Cycling.webp',
+  'Fitness Equipment': 'https://redstore-vcct.onrender.com/images/FitnessEquipment.jpeg',
+  Accessories: 'https://redstore-vcct.onrender.com/images/Accessories.jpeg',
+  Boxing: 'https://redstore-vcct.onrender.com/images/Boxing.jpeg',
+  Running: 'https://redstore-vcct.onrender.com/images/Running.jpeg'
 };
 
 // ✅ Generate 100 products
