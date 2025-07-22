@@ -36,7 +36,7 @@ const sampleTitles = {
 const imageUrls = {
   Footwear: 'https://images.unsplash.com/photo-1588361861040-ac9b1018f6d5',
   Sportswear: 'https://images.unsplash.com/photo-1585036156261-1e2ac055414d',
-  Cricket: 'http://localhost:5000/images/cricket.jpg',
+  Cricket: 'https://redstore-vcct.onrender.com/images/cricket.jpg',
   Football: 'http://localhost:5000/images/football.avif',
   Basketball: 'http://localhost:5000/images/basketball.avif',
   Tennis: 'http://localhost:5000/images/Tennis.jpeg',
